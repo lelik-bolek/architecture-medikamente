@@ -6,15 +6,15 @@
 # Диаграммы потоков данных DFD для каждого процесса (As-Is)
 
 Графические схемы (As-Is): 
-[Регистрация пациента](/diagrams/dfd-as-is-01-patient-registration.png)
-[Оплата услуг](/diagrams/dfd-as-is-02-payment-processing.png), 
-[Приём врача](/diagrams/dfd-as-is-03-doctor-consultation.png), 
-[Обработка анализов](/diagrams/dfd-as-is-04-lab-tests-processing.png).
+[Регистрация пациента](diagrams/dfd-as-is-01-patient-registration.png)
+[Оплата услуг](diagrams/dfd-as-is-02-payment-processing.png), 
+[Приём врача](diagrams/dfd-as-is-03-doctor-consultation.png), 
+[Обработка анализов](diagrams/dfd-as-is-04-lab-tests-processing.png).
 
 # Формирование перечня данных и методов защиты (шифрование, обфускация, обезличивание)
 
 Определены адресные технические механизмы защиты для каждого типа данных.
-Матрица соответствия данных и защитных мер представлена: 
+Матрица соответствия данных и защитных мер представлена:
 [Формирование перечня данных и методов защиты](1_list_of_data_and_protection_methods.md).
 
 ### Механизм тегирования данных и выбор инструментов
@@ -25,7 +25,7 @@
 # Диаграммы потоков данных DFD для каждого процесса (To-Be)
 
 Графические схемы (To-Be): 
-[Регистрация пациента](/diagrams/dfd-to-be-01-patient-registration.png), 
-[Оплата услуг](/diagrams/dfd-to-be-02-payment-processing.png), 
-[Приём врача](/diagrams/dfd-to-be-03-doctor-consultation.png), 
-[Обработка анализов](/diagrams/dfd-to-be-04-lab-tests-processing.png).
+[Регистрация пациента](diagrams/dfd-to-be-01-patient-registration.png), 
+[Оплата услуг](diagrams/dfd-to-be-02-payment-processing.png), 
+[Приём врача](diagrams/dfd-to-be-03-doctor-consultation.png), 
+[Обработка анализов](diagrams/dfd-to-be-04-lab-tests-processing.png).
